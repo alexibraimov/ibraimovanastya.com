@@ -1,0 +1,10 @@
+#services {
+  #service-container {
+    margin: $spacer auto;
+    padding: 0;
+    max-width: 600px;
+    .service-content {
+      margin-top: $spacer-sm;
+    }
+  }
+}

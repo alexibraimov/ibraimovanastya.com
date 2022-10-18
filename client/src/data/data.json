@@ -1,0 +1,218 @@
+{
+  "main": {
+    "name": {
+      "first": "",
+      "last": ""
+    },
+    "logo": true,
+    "titles": [
+      "PHOTO",
+      "CONTENT MAKE"
+    ],
+    "headings": {
+      "about": "О СЕБЕ",
+      "services": "УСЛУГИ",
+      "portfolio": "ПОРТФОЛИО",
+      "contact": "КОНТАКТЫ"
+    }
+  },
+  "about": {
+    "bio": "Привет, я Настя! Я занимаюсь профессиональной фотографией с 2018 года, а мобильной фотографией с 2015. Моя фотография - это не вылизанная идеальная картинка, это прежде всего ваши эмоции, те самые моменты, уют и жизнь. Позже я пришла к созданию контента для брендов, бизнеса и личных профилей. Ваши клиенты будут хотеть не только купить ваш товар, но и останутся с вами из-за визуальной составляющей вашего аккаунта.",
+    "tagline": "",
+    "facts": [
+    ]
+  },
+  "services": {
+    "defaultCategory": "Photo",
+    "categories": [
+      {
+        "category": "Photo",
+        "faClass": "fas fa-paint-brush",        
+        "packets":[
+          {
+            "name": "Индвидуальная",
+            "price": "3000",
+            "currency": "сом/час",
+            "description" : "20 обработанных + исходники"
+          },
+          {
+            "name": "Love story",
+            "price": "3500",
+            "currency": "сом/час",
+            "description" : "20 обработанных + исходники"
+          },
+          {
+            "name": "Семейная",
+            "price": "4000",
+            "currency": "сом/час",
+            "description" : "30 обработанных + исходники"
+          },
+          {
+            "name": "Свадебная сьемка",
+            "price": "5000",
+            "currency": "сом/час",
+            "description" : "40 обработанных + исходники"
+          }
+        ]
+      },
+      {
+        "category": "Content Make",
+        "subtitle": "",
+        "faClass": "fas fa-chalkboard-teacher",        
+        "packets":[
+          {
+            "name": "ПАКЕТ «БАЗОВЫЙ»",
+            "price": "10 000",
+            "currency": "сом/месяц",
+            "description" : "<ul><li>7 сторис каждый день </li> <li> 1 пост через день </li> <li>Оформление визуала в единой концепции </li><li>Оформление био/актуальных сторис </li> <li>Создание видео reels раз в неделю </li></ul>(материал фото/видео предоставляется заказчиком)"
+          },
+          
+          {
+            "name": "ПАКЕТ «СТАНДАРТ»",
+            "price": "15 000",
+            "currency": "сом/месяц",
+            "description" : "<ul><li>10 сторис каждый день </li> <li>1 пост через день</li> <li>Оформление визуала в единой концепции</li> <li>Оформление био профиля/актуальных сторис </li> <li>Создание видео reels два раза в неделю </li> <li>3 съемки в месяц </li> </ul> "
+          },
+          {
+            "name": "ПАКЕТ «VIP»",
+            "price": "20 000",
+            "currency": "сом/месяц",
+            "description" : "<ul><li>15 сторис каждый день </li> <li>1 пост каждый день </li> <li>Оформление визуала в единой концепции </li> <li>Оформление био профиля/актуальных сторис  </li> <li>Создание видео REELS 3 раза в неделю  </li> <li>6 съемок в месяц  </li> <li>Ответы на комментарии и direct </ul>"
+          }
+        ]
+      }
+    ]
+  },
+  "portfolio": {
+    "defaultFilter": "Photo",
+    "projects": [
+      {
+        "image": "1.jpg",
+        "isBefore": false,
+        "filter": "Photo",
+        "folder": "photo"
+      },
+      {
+        "image": "2.jpg",
+        "isBefore": false,
+        "filter": "Photo",
+        "folder": "photo"
+      },
+      {
+        "image": "3.jpg",
+        "isBefore": false,
+        "filter": "Photo",
+        "folder": "photo"
+      },
+      {
+        "image": "4.jpg",
+        "isBefore": false,
+        "filter": "Photo",
+        "folder": "photo"
+      },
+      {
+        "image": "5.jpg",
+        "isBefore": false,
+        "filter": "Photo",
+        "folder": "photo"
+      },
+      {
+        "image": "6.jpg",
+        "isBefore": false,
+        "filter": "Photo",
+        "folder": "photo"
+      },
+      {
+        "image": "7.jpg",
+        "isBefore": false,
+        "filter": "Photo",
+        "folder": "photo"
+      },
+      {
+        "image": "8.jpg",
+        "isBefore": false,
+        "filter": "Photo",
+        "folder": "photo"
+      },
+      {
+        "image": "9.jpg",
+        "isBefore": false,
+        "filter": "Photo",
+        "folder": "photo"
+      },
+
+      {
+        "image": "content1.jpg",
+        "folder":"content",
+        "isBefore": true,
+        "filter": "Content Make"
+      },
+      {
+        "image": "content2.jpg",
+        "folder":"content",
+        "isBefore": true,
+        "filter": "Content Make"
+      },
+      {
+        "image": "content3.jpg",
+        "folder":"content",
+        "isBefore": true,
+        "filter": "Content Make"
+      },
+      {
+        "image": "content8.jpg",
+        "folder":"content",
+        "isBefore": false,
+        "filter": "Content Make"
+      },
+      {
+        "image": "content4.jpg",
+        "folder":"content",
+        "isBefore": false,
+        "filter": "Content Make"
+      },
+      {
+        "image": "content6.jpg",
+        "folder":"content",
+        "isBefore": false,
+        "filter": "Content Make"
+      },
+      {
+        "image": "content5.jpg",
+        "folder":"content",
+        "isBefore": true,
+        "filter": "Content Make"
+      },
+      {
+        "image": "content7.jpg",
+        "folder":"content",
+        "isBefore": true,
+        "filter": "Content Make"
+      }
+    ]
+  },
+  "contact":{
+    "text": "Дозвониться до меня, наверное, будет сложно.",
+    "formTitle": "Отправьте мне сообщение",
+    "formEndPoint": "https://wa.me/996552704347?text=",
+    "city": "Бишкек, Кыргызстан",
+    "email": "ibraimova.anastasiya@icloud.com",
+    "phone": "+996 552-70-43-47",
+    "form": true,   
+    "social": [
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ibraimova_nastya/",
+        "faClass": "fab fa-instagram"
+      },
+      {
+        "name": "WhatsApp",
+        "url": "https://wa.me/996552704347",
+        "faClass": "fab fa-whatsapp"
+      }
+    ]
+  },
+  "footer": {
+    "copyrightText": "All Rights Reserved."
+  }
+}
